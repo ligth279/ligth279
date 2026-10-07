@@ -4,7 +4,7 @@ CSE student in Kerala. I run models on my own GPU and spend most of my time maki
 
 ---
 
-**[whoami / perception](https://github.com/ligth279/whoami/tree/dev1-turing-perception/turing)** (team project, my part)<br>
+**[whoami / perception](https://github.com/ligth279/whoami/tree/dev1-turing-perception/turing)** (team project, I worked on perception)<br>
 Segmentation and depth for an outdoor robot. It started at about 2 FPS, and after a lot of small optimizations it got to 13. I enjoyed that one a lot.
 
 **[ATHENA](https://github.com/ligth279/ATHENA)**<br>
