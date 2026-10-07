@@ -2,6 +2,8 @@
 
 CSE student in Kerala. I run models on my own GPU and spend most of my time making them efficient.
 
+You know the feeling: you change one line, rerun the benchmark, and the FPS counter jumps. That's the best part of my day.
+
 ---
 
 **[whoami / perception](https://github.com/ligth279/whoami/tree/dev1-turing-perception/turing)** (team project, I worked on perception)<br>
